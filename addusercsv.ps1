@@ -19,10 +19,10 @@ foreach ($User in $ADUsers) {
     $telephone = $User.telephone
     $jobtitle = $User.jobtitle
     $department = $User.department
-	$description = $User.description
-	$manager = $User.manager
+    $description = $User.description
+    $manager = $User.manager
     $ipphone = $User.ipphone
-	$cellphone = $User.cellphone
+    $cellphone = $User.cellphone
     $proxyaddresses = $User.proxyaddresses
 
     if (Get-ADUser -Filter "SamAccountName -eq '$username'") {
