@@ -1,2 +1,2 @@
 ﻿Firstname,LastName,Username,Password,Email,Description,Department,JobTitle,Manager,Telephone,ipphone,CellPhone,proxyAddresses,OU
-John,Helldiver,john.helldiver,yourtemppassword,john.helldiver@yourdomain.com,Liberty,Super Earth A F,Democracy Spreader,"CN=First Last,OU=Users,DC=domain,DC=local",,,,john.helldiver@yourdomain.gov,"OU=Users,DC=domain,DC=local"
+John,Helldiver,john.helldiver,yourtemppassword,john.helldiver@yourdomain.com,Liberty,Super Earth A F,Democracy Spreader,"CN=First Last,OU=Users,DC=domain,DC=local",,,,smtp:john.helldiver@yourdomain.gov,"OU=Users,DC=domain,DC=local"
